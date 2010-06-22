@@ -1,0 +1,52 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-rails-1.2.7.1/generators/rspec/templates/script
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+spec_server
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+309573344e9739ff55bc8bb015b2edde
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+autospec
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+e67d54ade381034af5e3451d443f5e20
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+spec
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+3d1650df54e5de29e076409e6ddf138a
+2009-08-19T03:40:22.537382Z
+66
+fabled
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/example_groups
+END
+implicit_docstrings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/example_groups/implicit_docstrings.feature
+END
+nested_groups.feature
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/example_groups/nested_groups.feature
+END
+example_group_with_should_methods.feature
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/example_groups/example_group_with_should_methods.feature
+END

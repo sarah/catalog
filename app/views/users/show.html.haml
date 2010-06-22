@@ -1,0 +1,10 @@
+==My entries
+#category_container
+  %ul.category
+    %li.header Pending Entries
+    -current_user.entries.pending.each do |entry|
+      %li=link_to entry.title, entry, :class => "index"
+  %ul.category
+    %li.header Published Entries
+    -current_user.entries.published.each do |entry|
+      %li=link_to entry.title, entry, :class => "index"

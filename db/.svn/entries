@@ -1,0 +1,43 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/db
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+schema.rb
+file
+91
+
+
+
+2009-09-27T01:36:25.000000Z
+6a3cc5d7bb9ada3cd39f6e5a54182eed
+2009-09-27T02:02:25.123139Z
+91
+fabled
+
+migrate
+dir
+

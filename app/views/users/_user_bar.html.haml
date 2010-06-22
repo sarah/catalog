@@ -1,0 +1,12 @@
+#user-bar-greeting  
+  -if logged_in?   
+    =link_to_unless_current "me (#{current_user.login})", user_path(current_user)
+    |
+    =link_to_unless_current "new entry", new_entry_path
+    |
+    -if admin?
+      =link_to "pending entries", pending_entries_path
+      |
+    =link_to "log out", logout_path, :confirm => "really?"
+   
+

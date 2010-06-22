@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/fabled/catalog/!svn/ver/9/app/views/user_mailer
+END
+signup_notification.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/fabled/catalog/!svn/ver/9/app/views/user_mailer/signup_notification.erb
+END
+activation.erb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/fabled/catalog/!svn/ver/9/app/views/user_mailer/activation.erb
+END

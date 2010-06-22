@@ -1,0 +1,52 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/thoughtbot-factory_girl-1.2.0/lib/factory_girl/attribute
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+dynamic.rb
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+d5058dd6c6357322a978de50c9b0426e
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+static.rb
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+3b10c30e18bd51019af65ebe588aef81
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+association.rb
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+2300e01dc840891b1b3d7bb013d84c13
+2009-08-19T03:40:22.537382Z
+66
+fabled
+

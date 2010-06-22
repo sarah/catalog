@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/fabled/catalog/!svn/ver/1/test/unit
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/fabled/catalog/!svn/ver/1/test/unit/user_test.rb
+END
+user_mailer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/fabled/catalog/!svn/ver/1/test/unit/user_mailer_test.rb
+END
+catalog_entry_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/fabled/catalog/!svn/ver/1/test/unit/catalog_entry_test.rb
+END

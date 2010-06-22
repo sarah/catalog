@@ -1,0 +1,178 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-1.2.8
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+Rakefile
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+e2125b2c3fcade88dc95cbbea8c205d2
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+TODO.txt
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+5b0be643454a626d69b49a66e5e8ba00
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+README.rdoc
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+b1c8e091f874013117d35cfb6e5ba19a
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+Manifest.txt
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+fef0a890f8237695ea12c90a8b34ad67
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+History.rdoc
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+68e330111acdbb92abd9df001a0ad6af
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+spec
+dir
+
+.document
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+83e51fb9e0223bac9f1966d76fc044bd
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+.specification
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+d1c114bb375d4906b0f9efaee05fa01e
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+Ruby1.9.rdoc
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+41e64c4c3d4d1e49c27090458f4b73cb
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+License.txt
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+6329fffe076fca34209b7303351ea48b
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+cucumber.yml
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+55029d9581bd6352249b8654e2714c27
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+init.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+640f74b8156893c1bc98a2050c8589d3
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+lib
+dir
+
+bin
+dir
+
+resources
+dir
+
+Upgrade.rdoc
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+4902e3f29f58f7672e7e4ac080af0d15
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+features
+dir
+
+examples
+dir
+

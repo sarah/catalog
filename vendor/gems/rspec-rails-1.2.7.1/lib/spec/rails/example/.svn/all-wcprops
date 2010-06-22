@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example
+END
+cookies_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/cookies_proxy.rb
+END
+routing_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/routing_example_group.rb
+END
+view_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/view_example_group.rb
+END
+helper_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/helper_example_group.rb
+END
+render_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/render_observer.rb
+END
+model_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/model_example_group.rb
+END
+functional_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/functional_example_group.rb
+END
+routing_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/routing_helpers.rb
+END
+controller_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/controller_example_group.rb
+END
+integration_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/integration_example_group.rb
+END
+assigns_hash_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example/assigns_hash_proxy.rb
+END

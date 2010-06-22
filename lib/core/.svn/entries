@@ -1,0 +1,40 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/lib/core
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-07-04T22:20:32.788378Z
+51
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+string.rb
+file
+102
+
+
+
+2009-10-03T02:51:37.000000Z
+a37292fb0b2f445edec0b0486e36b412
+2009-10-03T03:29:45.433506Z
+102
+fabled
+

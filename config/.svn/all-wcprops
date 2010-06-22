@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/fabled/catalog/!svn/ver/57/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/fabled/catalog/!svn/ver/99/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/fabled/catalog/!svn/ver/67/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/fabled/catalog/!svn/ver/1/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/fabled/catalog/!svn/ver/94/config/environment.rb
+END
+deploy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/fabled/catalog/!svn/ver/79/config/deploy.rb
+END

@@ -1,0 +1,31 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/webrat-0.4.4/lib
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+webrat
+dir
+
+webrat.rb
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+5769ba52442dc177b0c9bd205ce61e12
+2009-08-19T03:36:24.189531Z
+65
+fabled
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/lib/factory_girl/proxy
+END
+stub.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/lib/factory_girl/proxy/stub.rb
+END
+build.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/lib/factory_girl/proxy/build.rb
+END
+create.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/lib/factory_girl/proxy/create.rb
+END
+attributes_for.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/lib/factory_girl/proxy/attributes_for.rb
+END

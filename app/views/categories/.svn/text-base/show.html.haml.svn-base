@@ -1,0 +1,12 @@
+=content_for :navigation do
+  -if current_user
+    ==hi #{current_user.login}
+    |
+    =link_to "logout", logout_path
+
+#category_container
+  %ul.category{:id => "category_#{@category.id}"}
+    %li.header
+      =category_header(@category.name)
+    -for entry in @entries
+      %li.entry=render  "entries/listed_entry", :entry => entry

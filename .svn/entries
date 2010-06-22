@@ -1,0 +1,115 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-07-05T16:18:08.800962Z
+60
+sabrina
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+test
+dir
+
+app
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2009-08-19T03:20:20.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2009-02-15T23:30:06.518677Z
+1
+fabled
+
+db
+dir
+
+spec
+dir
+
+README
+file
+
+
+
+
+2009-08-19T03:20:20.000000Z
+0cdf56769f20a2b73a929ac3ba633152
+2009-02-15T23:30:06.518677Z
+1
+fabled
+
+vendor
+dir
+
+tmp
+dir
+
+Capfile
+file
+
+
+
+
+2009-08-19T03:20:20.000000Z
+d3c3576398a4876c920553b714bc177f
+2009-02-16T04:28:08.596824Z
+5
+fabled
+
+script
+dir
+
+cucumber.yml
+file
+67
+
+
+
+2009-09-10T04:57:28.000000Z
+4f657f2df08c675d34f6e3b08c2ce7a4
+2009-08-19T03:47:54.010018Z
+67
+fabled
+
+doc
+dir
+
+config
+dir
+
+lib
+dir
+
+public
+dir
+
+features
+dir
+

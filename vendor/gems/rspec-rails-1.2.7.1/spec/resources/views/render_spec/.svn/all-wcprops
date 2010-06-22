@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/render_spec
+END
+_a_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/render_spec/_a_partial.html.erb
+END
+some_action.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/render_spec/some_action.js.rjs
+END
+some_action.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/render_spec/some_action.html.erb
+END
+action_with_alternate_layout.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/render_spec/action_with_alternate_layout.html.erb
+END

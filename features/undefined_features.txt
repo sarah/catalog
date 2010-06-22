@@ -1,0 +1,20 @@
+Feature: title
+  In order to value
+  As a role
+  I want feature
+
+  Scenario: title
+    Given I would like this generated for "me"
+    When I run cucumbery
+    |name|value|
+    |foo|bar|
+    Then it should build the file "file"
+  
+  Scenario: more
+    Given I have another undefined step
+    When I run all sorts of things
+    |name|value|
+    |foo|bar|
+    Then clippie may or may not be annoying
+  
+  

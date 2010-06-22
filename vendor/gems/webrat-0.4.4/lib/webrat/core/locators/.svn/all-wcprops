@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators
+END
+button_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/button_locator.rb
+END
+field_labeled_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/field_labeled_locator.rb
+END
+link_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/link_locator.rb
+END
+label_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/label_locator.rb
+END
+locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/locator.rb
+END
+field_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/field_locator.rb
+END
+form_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/form_locator.rb
+END
+field_named_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/field_named_locator.rb
+END
+select_option_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/select_option_locator.rb
+END
+area_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/area_locator.rb
+END
+field_by_id_locator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/locators/field_by_id_locator.rb
+END

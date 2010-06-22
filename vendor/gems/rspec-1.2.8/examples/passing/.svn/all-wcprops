@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing
+END
+options_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/options_formatter.rb
+END
+stack_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/stack_spec.rb
+END
+yielding_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/yielding_example.rb
+END
+io_processor_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/io_processor_spec.rb
+END
+partial_mock_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/partial_mock_example.rb
+END
+filtered_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/filtered_formatter.rb
+END
+implicit_docstrings_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/implicit_docstrings_example.rb
+END
+stack_spec_with_nested_example_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/stack_spec_with_nested_example_groups.rb
+END
+stubbing_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/stubbing_example.rb
+END
+shared_stack_examples.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/shared_stack_examples.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/spec_helper.rb
+END
+helper_method_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/helper_method_example.rb
+END
+filtered_formatter_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/filtered_formatter_example.rb
+END
+custom_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/custom_formatter.rb
+END
+dynamic_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/dynamic_spec.rb
+END
+pending_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/pending_example.rb
+END
+custom_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/custom_matchers.rb
+END
+file_accessor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/file_accessor.rb
+END
+mocking_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/mocking_example.rb
+END
+stack.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/stack.rb
+END
+io_processor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/io_processor.rb
+END
+options_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/options_example.rb
+END
+greeter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/greeter_spec.rb
+END
+simple_matcher_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/simple_matcher_example.rb
+END
+shared_example_group_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/shared_example_group_example.rb
+END
+nested_classes_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/nested_classes_example.rb
+END
+multi_threaded_example_group_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/multi_threaded_example_group_runner.rb
+END
+file_accessor_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/file_accessor_spec.rb
+END
+predicate_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/passing/predicate_example.rb
+END

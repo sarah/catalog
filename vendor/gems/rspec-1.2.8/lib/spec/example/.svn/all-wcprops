@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example
+END
+example_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_methods.rb
+END
+pending.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/pending.rb
+END
+predicate_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/predicate_matchers.rb
+END
+args_and_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/args_and_options.rb
+END
+example_group_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_group_methods.rb
+END
+example_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_proxy.rb
+END
+shared_example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/shared_example_group.rb
+END
+example_matcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_matcher.rb
+END
+example_group_factory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_group_factory.rb
+END
+subject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/subject.rb
+END
+module_reopening_fix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/module_reopening_fix.rb
+END
+example_group_hierarchy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_group_hierarchy.rb
+END
+example_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_group.rb
+END
+example_group_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/example_group_proxy.rb
+END
+before_and_after_hooks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/before_and_after_hooks.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/example/errors.rb
+END

@@ -1,0 +1,15 @@
+-form_tag session_path do 
+  = label_tag 'login'
+  %p= text_field_tag 'login', @login
+
+  %p= label_tag 'password' 
+  
+  = password_field_tag 'password', nil
+  / %p= label_tag 'remember_me', 'Remember me'
+  / %p= check_box_tag 'remember_me', '1', @remember_me 
+  %p= submit_tag 'Log in >'
+  %p
+    * Not accepting new signups yet.  
+    =link_to "Look around though.", entries_path
+
+  

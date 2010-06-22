@@ -1,0 +1,94 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/webrat-0.4.4
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+History.txt
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+7a036239925579be70a5601c93536420
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+Rakefile
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+8c2c16e325e8dec0d782d18ad9347cc4
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+README.rdoc
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+3466e841d34a5b9ced1d24664e80f6fe
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+lib
+dir
+
+MIT-LICENSE.txt
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+3aeb13e77f4d175c5e83ebb178045d4d
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+install.rb
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+450c71a71f3078348884436cfb08c7e5
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+vendor
+dir
+
+.specification
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+118f4b084fa60750511a9830794a920f
+2009-08-19T03:36:24.189531Z
+65
+fabled
+

@@ -1,0 +1,79 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/vendor/plugins/acts_as_state_machine/test
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+test_helper.rb
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+301c853c8eda52dd1ec6619cfbf91be0
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+acts_as_state_machine_test.rb
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+663f06569208f92084d0bcbadddc0319
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+schema.rb
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+d9765963286b92c8c480a4a2ec0a1468
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+database.yml
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+cee681e7379cf5e6855b1b236dd90fd7
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+fixtures
+dir
+

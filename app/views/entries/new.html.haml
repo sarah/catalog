@@ -1,0 +1,6 @@
+%h1 New Catalog Entry
+-form_for :entry, :url => entries_path, :html => {:multipart => true} do |f| 
+  =render :partial => "form_fields", :locals => {:f => f}
+  = f.submit "Create"
+
+= link_to 'Back', entries_path

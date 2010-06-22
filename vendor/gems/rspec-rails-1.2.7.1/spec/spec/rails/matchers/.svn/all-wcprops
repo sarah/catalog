@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers
+END
+redirect_to_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/redirect_to_spec.rb
+END
+should_change_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/should_change_spec.rb
+END
+ar_be_valid_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/ar_be_valid_spec.rb
+END
+have_text_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/have_text_spec.rb
+END
+include_text_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/include_text_spec.rb
+END
+errors_on_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/errors_on_spec.rb
+END
+render_template_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/render_template_spec.rb
+END
+assert_select_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/matchers/assert_select_spec.rb
+END

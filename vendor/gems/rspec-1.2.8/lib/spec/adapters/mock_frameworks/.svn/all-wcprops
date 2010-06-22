@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/adapters/mock_frameworks
+END
+rr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/adapters/mock_frameworks/rr.rb
+END
+mocha.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/adapters/mock_frameworks/mocha.rb
+END
+flexmock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/adapters/mock_frameworks/flexmock.rb
+END
+rspec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/adapters/mock_frameworks/rspec.rb
+END

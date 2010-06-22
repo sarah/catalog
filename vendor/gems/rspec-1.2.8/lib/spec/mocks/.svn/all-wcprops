@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks
+END
+framework.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/framework.rb
+END
+spec_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/spec_methods.rb
+END
+error_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/error_generator.rb
+END
+extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/extensions.rb
+END
+proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/proxy.rb
+END
+methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/methods.rb
+END
+argument_expectation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/argument_expectation.rb
+END
+message_expectation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/message_expectation.rb
+END
+order_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/order_group.rb
+END
+argument_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/argument_matchers.rb
+END
+mock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/mock.rb
+END
+space.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/space.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/mocks/errors.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/subject
+END
+implicit_subject.feature
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/subject/implicit_subject.feature
+END
+explicit_subject.feature
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/subject/explicit_subject.feature
+END

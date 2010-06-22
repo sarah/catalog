@@ -1,0 +1,17 @@
+=content_for :navigation do
+  -if current_user
+    ==hi #{current_user.login}
+    |
+    =link_to "logout", logout_path
+
+#category_container
+  -@categories.each_with_index do |category, index|
+    -entries = category.catalog_entries.most_recent
+    %ul.category{:id => "category_#{category.id}"}
+      %li.header
+        =category_header(category.name)
+      -for entry in entries
+        %li.entry=render  "entries/listed_entry", :entry => entry
+      -if category.catalog_entries.count > 15
+        %li.ellipses ...
+        %li.view_more=link_to "more", category_path(category)

@@ -1,0 +1,70 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/lib
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-07-04T23:13:50.386129Z
+55
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+authenticated_test_helper.rb
+file
+
+
+
+
+2009-08-19T03:20:20.000000Z
+6da91e574060433b0dd55e59f4032c2e
+2009-02-15T23:30:06.518677Z
+1
+fabled
+
+tasks
+dir
+
+core
+dir
+
+authenticated_system.rb
+file
+71
+
+
+
+2009-08-23T05:00:54.000000Z
+7010049508c2f85326288f5c92d5c17b
+2009-08-23T05:01:52.680539Z
+71
+fabled
+
+core.rb
+file
+
+
+
+
+2009-08-19T03:20:20.000000Z
+337dbc5600a8d6b44997bb4027bf195a
+2009-07-04T23:13:50.386129Z
+55
+fabled
+

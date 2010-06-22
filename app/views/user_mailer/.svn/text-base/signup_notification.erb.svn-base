@@ -1,0 +1,19 @@
+Hi, 
+
+Surprise!
+
+An account has been created for you at the Catalog!
+
+  Username: <%=h @user.login %>
+  Password: <%=h @user.password %>
+
+Visit this url to activate your account:
+
+  <%=h @url %>
+  
+  
+The person who created this account will send you further information by regular email. 
+
+Sincerely,
+
+The Committee.

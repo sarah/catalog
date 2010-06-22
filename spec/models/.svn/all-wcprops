@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/fabled/catalog/!svn/ver/50/spec/models
+END
+category_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/fabled/catalog/!svn/ver/99/spec/models/category_spec.rb
+END
+user_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/fabled/catalog/!svn/ver/102/spec/models/user_spec.rb
+END
+entry_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/fabled/catalog/!svn/ver/99/spec/models/entry_spec.rb
+END

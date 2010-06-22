@@ -1,0 +1,106 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/vendor/plugins/acts_as_state_machine
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+bf4114a3b02bfd02cfb35103841a1744
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+TODO
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+c7cdaf69a6ca8d84735e94c04d3e9b00
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+init.rb
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+331a772e6bc93e8bcc0b9121c864b7ae
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+6724b4ffea59678592fbc77bc283f30d
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+MIT-LICENSE
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+918aa567713910d9ca412696e9c3a12e
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+README
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+396c3550ac041e62a283247d43a06087
+2009-03-25T19:42:39.894116Z
+50
+fabled
+

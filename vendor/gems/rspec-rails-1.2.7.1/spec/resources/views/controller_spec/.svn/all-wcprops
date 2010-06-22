@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/controller_spec
+END
+action_with_errors_in_template.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/controller_spec/action_with_errors_in_template.html.erb
+END
+_partial.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/controller_spec/_partial.html.erb
+END
+action_setting_flash_after_session_reset.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/controller_spec/action_setting_flash_after_session_reset.html.erb
+END
+action_setting_flash_before_session_reset.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/controller_spec/action_setting_flash_before_session_reset.html.erb
+END
+action_with_template.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/controller_spec/action_with_template.html.erb
+END
+action_setting_the_assigns_hash.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/resources/views/controller_spec/action_setting_the_assigns_hash.html.erb
+END

@@ -1,0 +1,49 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/app/views
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-07-05T16:09:10.197527Z
+59
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+layouts
+dir
+
+users
+dir
+
+categories
+dir
+
+sessions
+dir
+
+shared
+dir
+
+user_mailer
+dir
+
+entries
+dir
+

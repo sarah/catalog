@@ -1,0 +1,3 @@
+<%=h @user.login %>, your account has been activated at the Catalog.  Welcome aboard!
+
+  <%=h @url %>

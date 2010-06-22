@@ -1,0 +1,94 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/thoughtbot-factory_girl-1.2.0
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+9fcaf2d8e67b217dd203bf8719abb57a
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+Rakefile
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+68153eb95e7db379e5090a667c7c5f7e
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+README.rdoc
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+b4506de46b2f4f58ebb672e73f88dede
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+lib
+dir
+
+Changelog
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+bc528119c889003b3cc73d311a75d017
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+CONTRIBUTION_GUIDELINES.rdoc
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+6ee80ff649a5a0e027198e29277e8ea3
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+.specification
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+95065a00e2628b42f99d80ff2a39e58f
+2009-08-19T03:40:22.537382Z
+66
+fabled
+

@@ -1,0 +1,100 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+extensions
+dir
+
+interop
+dir
+
+extensions.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+0ea7fe88e76705b6c82bd5b5a96446dc
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+spec_server.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+95fbec927b88639258068edfd698dbca
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+matchers
+dir
+
+version.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+f72ba3d3b4c78c6ed242db7748b94e88
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+matchers.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+13cd1f96bdc6c60f111852f86f4b0245
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+example
+dir
+
+example.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+e9dbc60381f1ed13eb653d640901dd51
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+mocks.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+ea64a659a1a40c8d8e35c9d348430430
+2009-08-19T03:40:22.537382Z
+66
+fabled
+

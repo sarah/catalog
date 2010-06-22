@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/fabled/catalog/!svn/ver/4/vendor/plugins/attachment_fu/test/processors
+END
+mini_magick_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/fabled/catalog/!svn/ver/4/vendor/plugins/attachment_fu/test/processors/mini_magick_test.rb
+END
+core_image_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fabled/catalog/!svn/ver/4/vendor/plugins/attachment_fu/test/processors/core_image_test.rb
+END
+image_science_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/4/vendor/plugins/attachment_fu/test/processors/image_science_test.rb
+END
+gd2_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/fabled/catalog/!svn/ver/4/vendor/plugins/attachment_fu/test/processors/gd2_test.rb
+END
+rmagick_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/4/vendor/plugins/attachment_fu/test/processors/rmagick_test.rb
+END

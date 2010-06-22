@@ -1,0 +1,40 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/vendor/plugins/haml
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-02-21T20:59:51.782221Z
+36
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+init.rb
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+41f3bb54eb5a56b5b83b04b2532c4ab7
+2009-02-21T20:59:51.782221Z
+36
+fabled
+

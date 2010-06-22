@@ -1,0 +1,58 @@
+8
+
+dir
+67
+https://svn2.hosted-projects.com/fabled/catalog/features
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:47:54.010018Z
+67
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+step_definitions
+dir
+
+entry_submission.feature
+file
+90
+
+
+
+2009-09-12T21:13:25.000000Z
+fd90ee52e397784eda258cd8a1bd90ce
+2009-09-26T22:48:43.607333Z
+90
+fabled
+
+site_browsing.feature
+file
+95
+
+
+
+2009-10-02T18:36:21.000000Z
+97a91fa6b726ee21f57b2a099386a9e2
+2009-09-27T20:51:58.420010Z
+95
+fabled
+
+support
+dir
+
+undefined_features.txt
+file
+99
+
+
+
+2009-09-08T04:35:09.000000Z
+2a49a13379492b3d8f819bede40ea082
+2009-10-02T20:18:25.167117Z
+99
+fabled
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/fabled/catalog/!svn/ver/50/spec
+END
+factories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/fabled/catalog/!svn/ver/84/spec/factories.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/fabled/catalog/!svn/ver/41/spec/spec_helper.rb
+END
+rcov.opts
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/fabled/catalog/!svn/ver/41/spec/rcov.opts
+END
+spec.opts
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/fabled/catalog/!svn/ver/41/spec/spec.opts
+END

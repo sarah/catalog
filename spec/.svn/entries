@@ -1,0 +1,85 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/spec
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+factories.rb
+file
+84
+
+
+
+2009-10-03T00:05:29.000000Z
+c47993e5de68a56e1e4a5c2559ca7acf
+2009-08-27T02:50:11.871051Z
+84
+fabled
+
+models
+dir
+
+controllers
+dir
+
+fixtures
+dir
+
+spec_helper.rb
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+8669021aa2cd3d9cf892b4c1c24c2cd3
+2009-03-03T05:28:39.455126Z
+41
+fabled
+
+rcov.opts
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+55fe73f43f74d4403124e54fb71bf05a
+2009-03-03T05:28:39.455126Z
+41
+fabled
+
+spec.opts
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+3672575ff6c720793771fbf9af771c50
+2009-03-03T05:28:39.455126Z
+41
+fabled
+

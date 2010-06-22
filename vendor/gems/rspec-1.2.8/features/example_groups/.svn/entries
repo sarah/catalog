@@ -1,0 +1,52 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-1.2.8/features/example_groups
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+implicit_docstrings.feature
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+b1b0c4a504b7e1cbec0d5684ad2f0031
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+nested_groups.feature
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+93c9bee4f2d950bfc956ef61507218bf
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+example_group_with_should_methods.feature
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+f0de617b597504155c62804020440170
+2009-08-19T03:36:24.189531Z
+65
+fabled
+

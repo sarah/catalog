@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails
+END
+extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/extensions.rb
+END
+spec_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/spec_server.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/version.rb
+END
+matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/matchers.rb
+END
+example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/example.rb
+END
+mocks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/lib/spec/rails/mocks.rb
+END

@@ -1,0 +1,23 @@
+!!!
+%html{ :xmlns => "http://www.w3.org/1999/xhtml" }
+  %head
+    %title 
+      Catalog of Things That Don't Exist
+      =yield :page_title
+    =stylesheet_link_tag 'catalog'
+    =javascript_include_tag 'jquery-1.3.2', 'jqueryui-1.7.2', 'lowpro.jquery', 'application'
+  %body
+    #header
+      #site
+      
+        / #site_logo=#image_tag("logo-landry-white.png", :class => "logo")
+        #site_logo=link_to(image_tag("logo-landry-white.png", :class => "logo"),root_path)
+        / #logo=link_to_unless_current "Catalog of Things That Don't Exist", root_path, :class => "logo"
+        #user_bar=render :partial => "users/user_bar"    
+      #meta
+        #search
+          /=#text_field_tag "search_catalog"
+          /=#submit_tag "Search"
+    #content=yield
+    #footer
+

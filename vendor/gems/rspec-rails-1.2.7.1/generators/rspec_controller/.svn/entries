@@ -1,0 +1,45 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-rails-1.2.7.1/generators/rspec_controller
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+USAGE
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+83147ae23bebf2da634285740776d2df
+2009-08-19T03:40:22.537382Z
+66
+fabled
+has-props
+
+rspec_controller_generator.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+6cb7db545176475d1a921f6ad895bca3
+2009-08-19T03:40:22.537382Z
+66
+fabled
+has-props
+
+templates
+dir
+

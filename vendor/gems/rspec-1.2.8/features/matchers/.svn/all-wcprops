@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/matchers
+END
+define_matcher_outside_rspec.feature
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/matchers/define_matcher_outside_rspec.feature
+END
+define_matcher_with_fluent_interface.feature
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/matchers/define_matcher_with_fluent_interface.feature
+END
+define_diffable_matcher.feature
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/matchers/define_diffable_matcher.feature
+END
+define_matcher.feature
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/matchers/define_matcher.feature
+END

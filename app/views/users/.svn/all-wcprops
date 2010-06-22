@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/fabled/catalog/!svn/ver/51/app/views/users
+END
+show.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/fabled/catalog/!svn/ver/102/app/views/users/show.html.haml
+END
+_user_bar.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/fabled/catalog/!svn/ver/91/app/views/users/_user_bar.html.haml
+END
+new.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/fabled/catalog/!svn/ver/32/app/views/users/new.html.haml
+END

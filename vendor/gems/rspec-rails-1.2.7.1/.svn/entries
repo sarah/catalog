@@ -1,0 +1,145 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-rails-1.2.7.1
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+License.txt
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+ba4089033decaf7e60677fc239b44a6c
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+Rakefile
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+c532821a595081c59be29d57e5669dc1
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+README.rdoc
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+e60bc4037a36823440959de59911fa00
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+TODO.txt
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+4a6ff663fb882e9bdb69f439d2482ad6
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+Manifest.txt
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+70c129aa979335cda29e6c36f4bca686
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+init.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+640f74b8156893c1bc98a2050c8589d3
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+lib
+dir
+
+History.rdoc
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+404e09b12c9f1a38edb1ed912e507c04
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+generators
+dir
+
+spec
+dir
+
+.document
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+7f80f1e8cb6c02bfd6166d652e5344e1
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+Upgrade.rdoc
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+5626d0f329d1edde4af56ed2b89975fd
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+.specification
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+affeacec3b61f93ace6416576ea88e14
+2009-08-19T03:40:22.537382Z
+66
+fabled
+

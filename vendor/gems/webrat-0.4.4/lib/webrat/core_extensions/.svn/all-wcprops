@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core_extensions
+END
+detect_mapped.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core_extensions/detect_mapped.rb
+END
+tcp_socket.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core_extensions/tcp_socket.rb
+END
+nil_to_param.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core_extensions/nil_to_param.rb
+END
+blank.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core_extensions/blank.rb
+END
+meta_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core_extensions/meta_class.rb
+END
+deprecate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core_extensions/deprecate.rb
+END

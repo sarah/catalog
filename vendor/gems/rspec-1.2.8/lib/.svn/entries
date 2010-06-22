@@ -1,0 +1,34 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-1.2.8/lib
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+autotest
+dir
+
+spec
+dir
+
+spec.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+470968317cf89461d6735553a43e46a9
+2009-08-19T03:36:24.189531Z
+65
+fabled
+

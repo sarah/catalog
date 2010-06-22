@@ -1,0 +1,40 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/extensions
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+active_record_spec.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+29e9ded8e6807ee12974a850c45a72da
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+action_view_base_spec.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+2a2ac0c482a3af574f8c1f70623e9a16
+2009-08-19T03:40:22.537382Z
+66
+fabled
+

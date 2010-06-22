@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/mocks
+END
+mix_stubs_and_mocks.feature
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/mocks/mix_stubs_and_mocks.feature
+END
+stub_implementation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/mocks/stub_implementation.feature
+END

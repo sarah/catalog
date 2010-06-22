@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/extensions
+END
+active_record_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/extensions/active_record_spec.rb
+END
+action_view_base_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/fabled/catalog/!svn/ver/66/vendor/gems/rspec-rails-1.2.7.1/spec/spec/rails/extensions/action_view_base_spec.rb
+END

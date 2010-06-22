@@ -1,0 +1,267 @@
+body {
+	background: #fff;
+/*background-image:url('/images/pattern_140.gif');*/
+	color:#000000;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:14px;
+	margin:0;
+	padding:0;
+	line-height: 18px;
+}
+
+#header{
+	width: 100%;
+	margin:0;
+	border:0;
+	padding:0;
+	position:relative;
+}
+
+a.button{
+
+}
+
+a img{
+	border: 0;
+	margin:0;
+	padding-top:5px;
+
+}
+
+#header #site{
+/*	padding:10px;*/
+/*	border-bottom: 1px dotted #000;*/
+}
+#header #site #user_bar{
+	top: 0px;
+	position:absolute;
+	right: 10px;
+}
+
+#header #site #logo{
+	padding:10px;
+	font-weight:bold;
+	font-size: 50px;
+	padding: 5px;	
+/*	width: 320px;*/
+	font-family:georgia;
+	color:#ccc;
+	overflow:hide;
+	height: 20px;
+}
+
+#header #site #logo a{
+	text-decoration:none;
+	color: inherit;
+}
+
+#header #meta{
+/*	padding:10px;*/
+/*	width: 100%;	*/
+	background-color: #eee;
+	position:relative;
+	height: 10px;
+}
+#meta #search{
+	position:absolute;
+	right: 30px;
+}
+
+#content{
+	margin: 5px 50px;
+	padding:10px;
+	width: 830px;
+}
+
+.title p{
+/*	font-weight:bold;
+	background-color: #f0ebd2;
+	font-size: 16px;
+	padding: 5px;
+	border-bottom: 1px dotted #000;
+	border-right: 1px dotted #000;
+	width: 320px;*/
+}
+
+#category_container{
+/*	float: left;*/
+	height: 200px;
+	width: 1200px;
+}
+ul.category{	
+	float: left;
+	list-style: none;
+	padding: 0 5px 5px 0;
+	width: 174px;
+	/*background-color: #fff;*/
+	
+}
+ul.category li{
+	color:#F5F5F5;
+	padding: 5px 0;
+/*	padding: 5px;*/
+/*	background-color: #fff;
+	padding: 5px;*/
+}
+
+ul.category li.entry{
+	font-size: 12px;
+}
+
+ul.category li a{
+/*	background-color: #F5F5F5;*/
+/*	padding: 5px;*/
+}
+ul.category li a:visited{
+	color: red;
+}
+
+
+#content a{
+/*	color:#2f864e;*/
+	color: #333;
+}
+
+.catalog{
+	float:left;
+}
+.catalog .view_more{
+	border: 1px solid #000;
+	float:left;
+}
+textarea.catalog_entry{
+	width:600px;
+}
+
+.catalog_entry .title{
+	margin:0;
+	padding:0;
+/*	border-bottom: 1px solid #EEEEEE;*/
+/*	border-bottom: 1px solid #EEEEEE;*/
+}
+.catalog_entry h1{
+	width: 100%;
+	font-weight: bold;
+	font-size:26px;
+/*	border-bottom: 1px solid #fff;*/
+	color: #030303;
+}
+.catalog_entry img.user_image{
+	margin:10px 0;
+}
+div.catalog_entry{
+/*	background-color:#EEEEEE;*/
+/*	background-color: #EEEEEE;*/
+	color:#36393D;
+	font-family:Verdana;
+	font-size:16px;
+	line-height:1.4;
+	padding:10px;
+}
+
+
+#user_bar{
+	font-size: 11px;
+	margin: 5px;
+}
+
+#user_bar a{
+	text-decoration: none;
+	color: #000;
+}
+
+.fieldWithErrors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+#errorExplanation {
+  width: 400px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#errorExplanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  background-color: #c00;
+  color: #fff;
+}
+
+
+#site_logo{
+		padding:10px;
+		font-weight:bold;
+		font-size: 50px;
+		padding: 5px;	
+	/*	width: 320px;*/
+		font-family:georgia;
+		color:#333 ;
+		overflow:hide;
+		height: 29px;
+		background-color: #b8b8bc;
+/*				background-color: #4b4b4c;*/
+}
+img.logo{
+	margin: 0px 10px;
+	position: absolute;
+	z-index: 100;
+/*	top: 15px;*/
+
+}
+
+
+#errorExplanation p {
+  color: #333;
+  margin-bottom: 0;
+  padding: 5px;
+}
+
+#errorExplanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
+
+ul.category li.header{
+/*	padding-left: 5px;*/
+	color: #288789;
+/*	font-weight: bold;*/
+/*	background-color: #ccc;*/
+	background-color: #fdfdfd;
+	width: 160px;
+	margin: 0 0 12px;
+	border-bottom: 1px dotted #E7E8E9;
+/*	border-bottom: 1px dotted #000;*/
+/*	border-right: 1px dotted #000;*/
+}
+ul.category li.ellipses{
+	margin: 3px 0 0 3px;
+	color: #000;
+}
+
+ul.category li.view_more{
+	font-size:smaller;
+}
+ul.category li.view_more a{
+	background-color: #fff;
+}
+
+
+input#search_catalog{
+	/*http://nicinabox.com/projects/colors.html*/
+	background-color:#F9F7ED;
+	padding: 5px;
+	font-size: 18px;
+	color: #1393C0;
+}
+
+.gentle_info{
+	color:#ccc;
+}

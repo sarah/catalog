@@ -1,0 +1,169 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-1.2.8/lib/spec
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+test
+dir
+
+interop
+dir
+
+dsl
+dir
+
+rake
+dir
+
+ruby.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+5124da515789c670fb415188e42226c3
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+dsl.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+946e24d2afc72cc0e3e71657697a4e62
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+version.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+e5b2aac6cdc1bc4d545586fde9890ab7
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+example
+dir
+
+example.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+20463682db9500881e159f4a0d1d4036
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+autorun.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+34b29dcb9c8566bba28cac6b2fb2e971
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+deprecation.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+2499a10079bd04369bc83a9bf3952823
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+stubs
+dir
+
+adapters
+dir
+
+expectations
+dir
+
+matchers
+dir
+
+matchers.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+7f4aeb322db829be132997ca7b8e0301
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+expectations.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+ae1a2984f8e5d841128861a53a05a44c
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+runner
+dir
+
+runner.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+d66b38da7792aafffbf697bec66160fd
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+mocks
+dir
+
+mocks.rb
+file
+
+
+
+
+2009-08-19T03:30:40.000000Z
+47697796bcfa1853777c43b9c0039a5f
+2009-08-19T03:36:24.189531Z
+65
+fabled
+

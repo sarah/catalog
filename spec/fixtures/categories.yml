@@ -1,0 +1,23 @@
+products:
+  id: 1
+  name: Products
+
+services:
+  id: 2
+  name: Services
+
+natural_phenomena:
+  id: 3
+  name: Natural Phenomena
+
+words:
+  id: 4
+  name: Words
+
+places:
+  id: 5
+  name: Places
+
+transportation:
+  id: 6
+  name: Transportation

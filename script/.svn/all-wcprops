@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/fabled/catalog/!svn/ver/41/script
+END
+spec_server
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/fabled/catalog/!svn/ver/41/script/spec_server
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/fabled/catalog/!svn/ver/1/script/console
+END
+autospec
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/fabled/catalog/!svn/ver/41/script/autospec
+END
+cucumber
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/fabled/catalog/!svn/ver/67/script/cucumber
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/fabled/catalog/!svn/ver/1/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/fabled/catalog/!svn/ver/1/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/fabled/catalog/!svn/ver/1/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/fabled/catalog/!svn/ver/1/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/fabled/catalog/!svn/ver/1/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/fabled/catalog/!svn/ver/1/script/generate
+END
+spec
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/fabled/catalog/!svn/ver/41/script/spec
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/fabled/catalog/!svn/ver/1/script/plugin
+END

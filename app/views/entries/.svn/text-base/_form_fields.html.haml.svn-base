@@ -1,0 +1,10 @@
+=f.error_messages
+=f.hidden_field :user_id, :value => current_user.id
+%p=f.label :title
+%p=f.text_field :title
+%p=f.label :body
+%p=f.text_area :body, :class => "catalog_entry"
+%p=f.label :category
+%p=f.select :category_id, Category.find(:all).map{|t| [t.name, t.id]}, {:prompt  => true}
+%p=f.label "Optional Image"
+%p=file_field_tag "entry_uploaded_data"

@@ -1,0 +1,52 @@
+8
+
+dir
+67
+https://svn2.hosted-projects.com/fabled/catalog/features/step_definitions
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:47:54.010018Z
+67
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+webrat_steps.rb
+file
+
+
+
+
+2009-08-19T03:41:50.000000Z
+eb8842578cf707900544d3c8a5ac140a
+2009-08-19T03:47:54.010018Z
+67
+fabled
+
+entry_submission_steps.rb
+file
+84
+
+
+
+2009-08-27T00:05:34.000000Z
+80929a06671263463ecde1fc86651480
+2009-08-27T02:50:11.871051Z
+84
+fabled
+
+general_steps.rb
+file
+99
+
+
+
+2009-10-02T18:43:25.000000Z
+e790cac58568900adf84fda0eddc1e00
+2009-10-02T20:18:25.167117Z
+99
+fabled
+

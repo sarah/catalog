@@ -1,0 +1,4 @@
+Pending Entries
+%ul
+  -@pending_entries.each do |entry|
+    %li=link_to entry.title, entry_path(entry)

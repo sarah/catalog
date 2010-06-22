@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/fabled/catalog/!svn/ver/67/features/step_definitions
+END
+webrat_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/fabled/catalog/!svn/ver/67/features/step_definitions/webrat_steps.rb
+END
+entry_submission_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/84/features/step_definitions/entry_submission_steps.rb
+END
+general_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/fabled/catalog/!svn/ver/99/features/step_definitions/general_steps.rb
+END

@@ -1,0 +1,8 @@
+%h1 Editing Catalog Entry
+-form_for :entry, :url => entry_path(@entry), :html => {:multipart => true, :method => :put} do |f|
+  =render :partial => "form_fields", :locals => {:f => f}
+  %p=f.submit "Update"
+
+= link_to 'Show', @entry 
+|
+= link_to 'Back', entries_path 

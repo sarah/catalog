@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/test/syntax
+END
+blueprint_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/test/syntax/blueprint_test.rb
+END
+sham_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/test/syntax/sham_test.rb
+END
+generate_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/test/syntax/generate_test.rb
+END
+make_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/66/vendor/gems/thoughtbot-factory_girl-1.2.0/test/syntax/make_test.rb
+END

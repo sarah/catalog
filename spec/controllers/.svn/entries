@@ -1,0 +1,28 @@
+8
+
+dir
+68
+https://svn2.hosted-projects.com/fabled/catalog/spec/controllers
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-23T02:34:09.029841Z
+68
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+entries_controller_spec.rb
+file
+99
+
+
+
+2009-10-02T17:38:25.000000Z
+4de646db28e91a40b10daecf84ac08f8
+2009-10-02T20:18:25.167117Z
+99
+fabled
+

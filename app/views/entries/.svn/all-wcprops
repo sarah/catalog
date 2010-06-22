@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/fabled/catalog/!svn/ver/59/app/views/entries
+END
+show.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/fabled/catalog/!svn/ver/102/app/views/entries/show.html.haml
+END
+_listed_entry.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/fabled/catalog/!svn/ver/90/app/views/entries/_listed_entry.html.haml
+END
+pending.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/fabled/catalog/!svn/ver/69/app/views/entries/pending.html.haml
+END
+edit.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/fabled/catalog/!svn/ver/41/app/views/entries/edit.html.haml
+END
+committee.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/fabled/catalog/!svn/ver/41/app/views/entries/committee.html.haml
+END
+index.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/fabled/catalog/!svn/ver/104/app/views/entries/index.html.haml
+END
+_form_fields.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/fabled/catalog/!svn/ver/84/app/views/entries/_form_fields.html.haml
+END
+new.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/fabled/catalog/!svn/ver/41/app/views/entries/new.html.haml
+END
+welcome.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/fabled/catalog/!svn/ver/41/app/views/entries/welcome.html.haml
+END

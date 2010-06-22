@@ -1,0 +1,88 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+webrat.js
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+c578d7319768e734cefb987115e9ec32
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+webratlinkwithin.js
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+34dda26b73a442bcf6cfa30e01df4e15
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+webratselectwithoption.js
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+5ff53313701ce9588dee73c50655e88c
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+button.js
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+8c66a4138dead256ba30b0ad356e1030
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+label.js
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+d99f227cca2a275d5f3ffc3e4558c758
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+webratlink.js
+file
+
+
+
+
+2009-08-19T03:30:38.000000Z
+94914faf36c8aa13a00afd7573030832
+2009-08-19T03:36:24.189531Z
+65
+fabled
+

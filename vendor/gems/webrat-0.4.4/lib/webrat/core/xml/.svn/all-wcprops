@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/xml
+END
+nokogiri.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/xml/nokogiri.rb
+END
+rexml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/xml/rexml.rb
+END
+hpricot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/xml/hpricot.rb
+END

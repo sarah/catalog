@@ -1,0 +1,52 @@
+8
+
+dir
+65
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/rspec-1.2.8/features/expectations
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+customized_message.feature
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+b15b8a849f4d69fb74e6c015ef541e14
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+expect_change.feature
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+25ebe27185e661d7125dc48079ce0dc1
+2009-08-19T03:36:24.189531Z
+65
+fabled
+
+expect_error.feature
+file
+
+
+
+
+2009-08-19T03:30:39.000000Z
+c569c46fd366faef86a3e501781d0c59
+2009-08-19T03:36:24.189531Z
+65
+fabled
+

@@ -1,0 +1,64 @@
+8
+
+dir
+66
+https://svn2.hosted-projects.com/fabled/catalog/vendor/gems/thoughtbot-factory_girl-1.2.0/lib/factory_girl/syntax
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+make.rb
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+2d914a0cb25a76b53a600e206b165ee0
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+blueprint.rb
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+dfb968a373cc5b7c3835f8f9b5edff01
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+sham.rb
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+fc51cf893811467b87dd5c405cf6213a
+2009-08-19T03:40:22.537382Z
+66
+fabled
+
+generate.rb
+file
+
+
+
+
+2009-08-19T03:30:41.000000Z
+0bccf3a2fec6d4ce4e3de54b03b7427f
+2009-08-19T03:40:22.537382Z
+66
+fabled
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements
+END
+link.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements/link.rb
+END
+label.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements/label.rb
+END
+field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements/field.rb
+END
+form.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements/form.rb
+END
+select_option.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements/select_option.rb
+END
+area.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements/area.rb
+END
+element.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/core/elements/element.rb
+END

@@ -1,0 +1,22 @@
+-content_for :page_title do
+  =" | #{@entry.title}"
+  
+.entry_status 
+  -if @entry.pending?
+    This entry is pending
+.catalog_entry
+  .title
+    %h1
+      =link_to((image_tag "back-arrow-222.png"), root_path, :class => "go-back", :title => "home", :alt => "home")
+      =h @entry.title
+  -unless @entry.images.empty? 
+    -@entry.images.each do |image|
+      = image_tag image.public_filename, :class => "user_image" 
+  %p= @entry.body.gsub("\n", "<br />\n") 
+  %h1=link_to((image_tag "back-arrow-222.png"), root_path, :class => "go-back", :title => "home", :alt => "home")
+  #entry_actions
+    -if current_user and current_user == @entry.author
+      =link_to "edit", edit_entry_path(@entry)
+    -if admin? and @entry.pending?
+      -form_tag publish_entry_path(@entry), :method => :put do
+        =submit_tag "Publish"

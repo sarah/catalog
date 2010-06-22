@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner
+END
+example_group_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/example_group_runner.rb
+END
+backtrace_tweaker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/backtrace_tweaker.rb
+END
+reporter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/reporter.rb
+END
+heckle_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/heckle_runner.rb
+END
+line_number_query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/line_number_query.rb
+END
+option_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/option_parser.rb
+END
+command_line.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/command_line.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/configuration.rb
+END
+class_and_arguments_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/class_and_arguments_parser.rb
+END
+options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/options.rb
+END
+drb_command_line.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/drb_command_line.rb
+END
+heckle_runner_unsupported.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/heckle_runner_unsupported.rb
+END

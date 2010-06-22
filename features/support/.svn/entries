@@ -1,0 +1,40 @@
+8
+
+dir
+67
+https://svn2.hosted-projects.com/fabled/catalog/features/support
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-08-19T03:47:54.010018Z
+67
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+paths.rb
+file
+90
+
+
+
+2009-09-12T20:47:42.000000Z
+128da3fe6ac8c7616bb005a258a4b74e
+2009-09-26T22:48:43.607333Z
+90
+fabled
+
+env.rb
+file
+90
+
+
+
+2009-09-12T20:18:34.000000Z
+9b3c937f1f1c216d68da0626252f7319
+2009-09-26T22:48:43.607333Z
+90
+fabled
+

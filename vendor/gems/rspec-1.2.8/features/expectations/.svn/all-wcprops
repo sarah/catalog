@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/expectations
+END
+customized_message.feature
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/expectations/customized_message.feature
+END
+expect_change.feature
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/expectations/expect_change.feature
+END
+expect_error.feature
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/features/expectations/expect_error.feature
+END

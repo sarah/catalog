@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/differs
+END
+default.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/differs/default.rb
+END
+load-diff-lcs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/lib/spec/runner/differs/load-diff-lcs.rb
+END

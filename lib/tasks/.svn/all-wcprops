@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/fabled/catalog/!svn/ver/42/lib/tasks
+END
+pc.rake
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/fabled/catalog/!svn/ver/41/lib/tasks/pc.rake
+END
+cucumber.rake
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/fabled/catalog/!svn/ver/67/lib/tasks/cucumber.rake
+END
+svn.rake
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/fabled/catalog/!svn/ver/42/lib/tasks/svn.rake
+END
+rspec.rake
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/fabled/catalog/!svn/ver/41/lib/tasks/rspec.rake
+END

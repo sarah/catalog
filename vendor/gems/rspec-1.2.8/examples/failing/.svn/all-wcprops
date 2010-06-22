@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing
+END
+failing_implicit_docstrings_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/failing_implicit_docstrings_example.rb
+END
+partial_mock_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/partial_mock_example.rb
+END
+diffing_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/diffing_spec.rb
+END
+mocking_with_rr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/mocking_with_rr.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/spec_helper.rb
+END
+mocking_with_mocha.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/mocking_with_mocha.rb
+END
+timeout_behaviour.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/timeout_behaviour.rb
+END
+failure_in_after.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/failure_in_after.rb
+END
+pending_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/pending_example.rb
+END
+failure_in_before.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/failure_in_before.rb
+END
+team_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/team_spec.rb
+END
+mocking_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/mocking_example.rb
+END
+raising_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/raising_example.rb
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/README.txt
+END
+syntax_error_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/syntax_error_example.rb
+END
+mocking_with_flexmock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/mocking_with_flexmock.rb
+END
+predicate_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/examples/failing/predicate_example.rb
+END

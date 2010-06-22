@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/autotest
+END
+autotest_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/autotest/autotest_matchers.rb
+END
+failed_results_re_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/autotest/failed_results_re_spec.rb
+END
+rspec_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/autotest/rspec_spec.rb
+END
+autotest_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/autotest/autotest_helper.rb
+END
+discover_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/autotest/discover_spec.rb
+END

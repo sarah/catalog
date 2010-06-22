@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/fabled/catalog/!svn/ver/55/lib
+END
+authenticated_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/fabled/catalog/!svn/ver/1/lib/authenticated_test_helper.rb
+END
+authenticated_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/fabled/catalog/!svn/ver/71/lib/authenticated_system.rb
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/fabled/catalog/!svn/ver/55/lib/core.rb
+END

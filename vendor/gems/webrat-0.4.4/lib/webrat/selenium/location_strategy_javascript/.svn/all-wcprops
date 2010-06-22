@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript
+END
+webrat.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript/webrat.js
+END
+webratlinkwithin.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript/webratlinkwithin.js
+END
+webratselectwithoption.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript/webratselectwithoption.js
+END
+button.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript/button.js
+END
+label.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript/label.js
+END
+webratlink.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/fabled/catalog/!svn/ver/65/vendor/gems/webrat-0.4.4/lib/webrat/selenium/location_strategy_javascript/webratlink.js
+END

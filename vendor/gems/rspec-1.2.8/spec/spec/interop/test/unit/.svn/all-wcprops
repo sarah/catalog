@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/spec/interop/test/unit
+END
+testsuite_adapter_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/spec/interop/test/unit/testsuite_adapter_spec.rb
+END
+spec_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/spec/interop/test/unit/spec_spec.rb
+END
+testcase_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/spec/interop/test/unit/testcase_spec.rb
+END
+test_unit_spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/fabled/catalog/!svn/ver/65/vendor/gems/rspec-1.2.8/spec/spec/interop/test/unit/test_unit_spec_helper.rb
+END

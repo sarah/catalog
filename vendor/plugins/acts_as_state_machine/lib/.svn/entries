@@ -1,0 +1,40 @@
+8
+
+dir
+60
+https://svn2.hosted-projects.com/fabled/catalog/vendor/plugins/acts_as_state_machine/lib
+https://svn2.hosted-projects.com/fabled/catalog
+
+
+
+2009-03-25T19:42:39.894116Z
+50
+fabled
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8346eff5-010d-47e8-bd8e-a5823f328f87
+
+acts_as_state_machine.rb
+file
+
+
+
+
+2009-08-19T03:10:28.000000Z
+9cec161065440f74ddf6d785c70db02a
+2009-03-25T19:42:39.894116Z
+50
+fabled
+

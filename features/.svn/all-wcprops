@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/fabled/catalog/!svn/ver/67/features
+END
+entry_submission.feature
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/fabled/catalog/!svn/ver/90/features/entry_submission.feature
+END
+site_browsing.feature
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/fabled/catalog/!svn/ver/95/features/site_browsing.feature
+END
+undefined_features.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/fabled/catalog/!svn/ver/99/features/undefined_features.txt
+END
